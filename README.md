@@ -1,4 +1,4 @@
-**HR Analytics Dashbaord - Power BI**
+**HR Analytics Dashboard - Power BI**
 **Objective:** To analyze employee attrition patterns and provide actionable insights for HR descison-making.
 **key Features:**
 * KPIs Tracked: Total Employees, Attrition count, Attrition Rate, Average Age, Average Salary, Average Years at company.
